@@ -1,0 +1,83 @@
+---- colors -----------
+bg 		#bdd5cf
+menuActve 	#cb935c
+ttrHome 	#eebe78
+ttr 		#2c3c50
+sttr 		#ddac65
+bgS2 		#1d252f
+bgSlide		#857566
+grisFooter	#818181
+-----------------------
+--------- fonts -------
+Freight Big Pro Book Regular
+Freight Big Pro Book Italic
+
+Freight Big Pro Medium Regular
+
+Freight Big Pro Medium Italic
+
+Freight Big Pro Light Regular
+
+
+Sofia Pro Light 
+
+Sofia Pro Medium
+
+Sofia Pro Semi Bold
+
+
+
+Alverata Light Regular
+Alverata Light Italic
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap" rel="stylesheet">
+Open Sans Regular
+Open Sans SemiBold
+
+[menu]
+height : 75px
+color #000 hover: #cb935c
+font Open Sans SemiBold
+
+[Nav lang]
+-font : AlverataLt, #000
+--active : AlverataLt Italic, #ddac65
+
+[Nav Verticale]
+-font : AlverataLt Regular, #ddac65
+ 
+[Home]
+-ttrHome : Freight Big Pro Medium Regular, #FFF
+--ttrHomeSmall : Freight Big Pro Medium Italic, #eebe78
+
+[section1]
+-Num : Freight Big Pro Book Regular, #ddac65
+-ttr : Freight Big Pro Medium Regular, #2c3c5 0
+-sttr : Freight Big Pro Medium Italic, #ddac65
+-resumes: Open Sans Regular, #383b40
+-----section1 part2
+-ttr : Freight Big Pro Book Italic, #2c3c50 
+-para : Open Sans Light, #000
+-date : Open Sans Light, #2c3c50, upperCase
+
+[section2]
+-- || -- 
+[section3]
+-- || -- 
+[section4]
+-- || -- 
+-historique : 
+---date : Freight Big Pro Book Regular
+--Nom : Open Sans SemiBold
+--resume : Open Sans
+
+[footer]
+-date : Freight Big Pro Book Italic, 
+-menu :
+--ttrMenu : Sofia Pro Semi Bold, #4d4d4d
+--listMenu : Sofia Pro Light, #7f7f7f
+-mentionsLlegales : Sofia Pro Light, #7f7f7f
+-creation : Sofia Pro Medium, #7f7f7f
+
+
+
