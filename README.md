@@ -2,7 +2,7 @@
 
 ## Guide d'utilisation
 
-* Cloner & télécharger le pacquet Git repo dans voter PC.
+* Cloner & télécharger le paquet Git repo dans voter PC.
 * Installer [Node.js](https://nodejs.org/).
 * executer `npm install` 
 * executer `gulp` pour les tâche par default
